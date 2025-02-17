@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @teknodeno
 - 👀 I’m interested in HTML, PHP AND ARDUİNİO
 - 🌱 I’m currently learning PHP
-- 💞️ I’m looking to collaborate on CHAT APPS
+- 💞️ I’m looking to collaborate on CHAT APPS and CHROMİUM BASED BROWSER
 
 
 <!---
